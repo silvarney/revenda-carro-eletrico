@@ -1,0 +1,14 @@
+# Ignorar todos os plugins EXCETO o customizado
+plugins/*
+!plugins/revenda-carros-eletricos/
+
+# Ignorar todos os temas EXCETO o customizado
+themes/*
+!themes/ev-motors/
+
+# WordPress uploads e cache
+uploads/
+upgrade/
+backup-db/
+cache/
+ai1wm-backups/
