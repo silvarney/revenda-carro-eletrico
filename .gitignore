@@ -7,8 +7,14 @@ themes/*
 !themes/ev-motors/
 
 # WordPress uploads e cache
+languages/
 uploads/
 upgrade/
 backup-db/
 cache/
 ai1wm-backups/
+
+# Ambiente
+!.env.example
+*.env
+*.log
